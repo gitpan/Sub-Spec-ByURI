@@ -7,8 +7,6 @@ META.yml
 README
 dist.ini
 lib/Sub/Spec/ByURI.pm
-lib/Sub/Spec/ByURI/http.pm
-lib/Sub/Spec/ByURI/https.pm
 lib/Sub/Spec/ByURI/pm.pm
 t/00-compile.t
 t/release-pod-coverage.t

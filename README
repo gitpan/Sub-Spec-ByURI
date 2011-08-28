@@ -2,7 +2,7 @@ NAME
     Sub::Spec::ByURI - Refer to module/sub/spec/sub call via URI string
 
 VERSION
-    version 0.01
+    version 0.02
 
 SYNOPSIS
      use Sub::Spec::ByURI;

@@ -1,6 +1,6 @@
 package Sub::Spec::ByURI;
 BEGIN {
-  $Sub::Spec::ByURI::VERSION = '0.01';
+  $Sub::Spec::ByURI::VERSION = '0.02';
 }
 
 use 5.010;
@@ -44,7 +44,7 @@ Sub::Spec::ByURI - Refer to module/sub/spec/sub call via URI string
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

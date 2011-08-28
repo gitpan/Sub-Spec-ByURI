@@ -1,6 +1,6 @@
 package Sub::Spec::ByURI::pm;
 BEGIN {
-  $Sub::Spec::ByURI::pm::VERSION = '0.01';
+  $Sub::Spec::ByURI::pm::VERSION = '0.02';
 }
 
 use 5.010;
@@ -91,7 +91,7 @@ Sub::Spec::ByURI::pm - http (and https) scheme handler for Sub::Spec::ByURI
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
